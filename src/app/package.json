@@ -1,6 +1,8 @@
 {
-  "name": "tutorial-rethinkdb-nodejs-crud",
-  "version": "0.0.1",
+  "name": "nerd",
+  "version": "1.0.0",
+  "description": "Setup using NodeJS ExpressJS RethinDB Docker",
+  "license": "MIT",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
