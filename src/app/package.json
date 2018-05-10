@@ -4,6 +4,10 @@
   "description": "Setup using NodeJS ExpressJS RethinDB Docker",
   "license": "MIT",
   "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/estrellajm/nerd.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

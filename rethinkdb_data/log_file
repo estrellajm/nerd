@@ -20,3 +20,29 @@
 2018-05-10T02:53:21.655595177 46.580917s notice: All client connections closed.
 2018-05-10T02:53:21.655598466 46.580920s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
 2018-05-10T02:53:21.657779400 46.583101s notice: Storage engine shut down.
+2018-05-10T03:00:45.060245993 0.013765s notice: Running rethinkdb 2.3.6~0jessie (GCC 4.9.2)...
+2018-05-10T03:00:45.063233554 0.016751s notice: Running on Linux 4.9.87-linuxkit-aufs x86_64
+2018-05-10T03:00:45.063634368 0.017150s notice: Loading data from directory /data/rethinkdb_data
+2018-05-10T03:00:45.079040634 0.032558s info: Automatically using cache size of 305 MB
+2018-05-10T03:00:45.080546449 0.034062s notice: Listening for intracluster connections on port 29015
+2018-05-10T03:00:45.092798970 0.046315s notice: Listening for client driver connections on port 28015
+2018-05-10T03:00:45.092969358 0.046485s notice: Listening for administrative HTTP connections on port 8080
+2018-05-10T03:00:45.094610353 0.048126s notice: Listening on cluster addresses: 127.0.0.1, 172.19.0.2
+2018-05-10T03:00:45.095597330 0.049113s notice: Listening on driver addresses: 127.0.0.1, 172.19.0.2
+2018-05-10T03:00:45.096470027 0.049985s notice: Listening on http addresses: 127.0.0.1, 172.19.0.2
+2018-05-10T03:00:45.096504296 0.050020s notice: Server ready, "7fdf1ccedb71_gth" 2e5c2343-67fe-4d1d-a5ff-3ac9e34c5930
+2018-05-10T03:00:47.063249968 2.016765s info: Table faee19f8-7915-428b-bd93-6305943c33ae: Starting a new Raft election for term 2.
+2018-05-10T03:00:47.064669328 2.018185s info: Table faee19f8-7915-428b-bd93-6305943c33ae: This server is Raft leader for term 2. Latest log index is 3.
+2018-05-10T03:02:18.951772196 0.013367s notice: Running rethinkdb 2.3.6~0jessie (GCC 4.9.2)...
+2018-05-10T03:02:18.954786323 0.016380s notice: Running on Linux 4.9.87-linuxkit-aufs x86_64
+2018-05-10T03:02:18.955104509 0.016696s notice: Loading data from directory /data/rethinkdb_data
+2018-05-10T03:02:18.971896124 0.033489s info: Automatically using cache size of 299 MB
+2018-05-10T03:02:18.980402078 0.041994s notice: Listening for intracluster connections on port 29015
+2018-05-10T03:02:18.997314677 0.058907s notice: Listening for client driver connections on port 28015
+2018-05-10T03:02:18.997951805 0.059543s notice: Listening for administrative HTTP connections on port 8080
+2018-05-10T03:02:18.999593257 0.061185s notice: Listening on cluster addresses: 127.0.0.1, 172.19.0.2
+2018-05-10T03:02:19.001286243 0.062878s notice: Listening on driver addresses: 127.0.0.1, 172.19.0.2
+2018-05-10T03:02:19.002263808 0.063855s notice: Listening on http addresses: 127.0.0.1, 172.19.0.2
+2018-05-10T03:02:19.002335987 0.063927s notice: Server ready, "7fdf1ccedb71_gth" 2e5c2343-67fe-4d1d-a5ff-3ac9e34c5930
+2018-05-10T03:02:20.433470897 1.495063s info: Table faee19f8-7915-428b-bd93-6305943c33ae: Starting a new Raft election for term 3.
+2018-05-10T03:02:20.434516700 1.496109s info: Table faee19f8-7915-428b-bd93-6305943c33ae: This server is Raft leader for term 3. Latest log index is 6.
